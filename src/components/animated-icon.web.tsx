@@ -8,6 +8,7 @@ const DURATION = 300;
 export function AnimatedSplashOverlay() {
   return null;
 }
+// 
 
 const keyframe = new Keyframe({
   0: {
